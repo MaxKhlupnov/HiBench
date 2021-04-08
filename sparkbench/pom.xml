@@ -159,13 +159,13 @@
     <profile>
       <id>spark3.0</id>
       <properties>
-        <spark.version>3.0.0</spark.version>
-        <spark.bin.version>3.0</spark.bin.version>
+        <spark.version>3.0.2</spark.version>
+        <spark.bin.version>3.0.2</spark.bin.version>
       </properties>
       <activation>
         <property>
           <name>spark</name>
-          <value>3.0</value>
+          <value>3.0.2</value>
         </property>
       </activation>
     </profile>
